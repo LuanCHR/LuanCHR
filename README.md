@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luan Christian
+# 🌐 Luan Christian
 
 **`Desenvolvedor Back-end`**
 
