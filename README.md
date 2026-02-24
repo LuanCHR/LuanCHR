@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Luan Christian, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no último semestre pela UNIP. Tenho formação técnica em informática e experiência com Python, HTML e CSS, além de conhecimentos em redes e manutenção de computadores. Sou apaixonado por tecnologia e estou sempre em busca de evoluir como desenvolvedor, criando projetos práticos e focados em resolver problemas reais. Estou estudando Python para Data Science, SQL e Power BI para ampliar minha atuação na área.
+Me chamo Luan Christian, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no Terceiro semestre pela USCS. Tenho formação técnica em informática e experiência com Python, HTML e CSS, além de conhecimentos em redes e manutenção de computadores. Sou apaixonado por tecnologia e estou sempre em busca de evoluir como desenvolvedor, criando projetos práticos e focados em resolver problemas reais. Estou estudando Python para Data Science, SQL e Power BI para ampliar minha atuação na área.
 
 <p align="left">
     </a> 
